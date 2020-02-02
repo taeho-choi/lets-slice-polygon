@@ -1,4 +1,4 @@
-#Lets-Slice-Polygons-2019
+//Lets-Slice-Polygons-2019
 
 #include <iostream>
 #include <ctime>

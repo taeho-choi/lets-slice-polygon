@@ -1,5 +1,6 @@
-# Lets-Slice-Polygons
+# Lets-Slice-Polygons-2019
 A simple game using opengl
+I also used glew and glm
 
 =============================================================
 

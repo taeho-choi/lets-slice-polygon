@@ -26,5 +26,5 @@ A simple game using opengl
 r : 경로 출력
 
 = : 속도 높히기 (최대값 존재)
-	      
+
 - : 속도 낮추기 (최소값 존재)

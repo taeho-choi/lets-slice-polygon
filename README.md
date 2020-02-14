@@ -1,4 +1,4 @@
-# Lets-Slice-Polygons-2019
+# LetsSlicePolygons-2019
 A simple game using opengl
 
 구현한 내용 :
